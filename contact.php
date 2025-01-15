@@ -6,6 +6,9 @@
                 <h1><center><font color="#FFFFFF">พรชัยอพาร์ตเมนต์</font></center></h1>
                 <?php include "Date.php"; ?>
             </td>
+
+            ชิก</li>
+
             <td width="43" rowspan="2">&nbsp;</td>
         </tr>
         <tr>
@@ -18,6 +21,7 @@
 				<li><a herf="guest.php">สมุดเยี่ยมKFC</li>
 				<li><a href="contact.php">ติดต่อKFC</li>
 				<li><a href="register.php">สมัครสมาชิกKFC</li>
+
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
